@@ -1,11 +1,25 @@
-#Project 2 Using the Create react App Using the Class Based 
+# React Class Components — Demo Project
 
+A small Create React App project built to learn and demonstrate **class-based
+components** in React: state, lifecycle methods and props using class syntax
+instead of hooks.
 
-- First, install Create React App globally using npm:
+## What It Covers
+
+- Class components with `this.state` and `setState`
+- Lifecycle methods such as `componentDidMount`
+- Passing data through props between class components
+
+## Tech Stack
+
+- React 18 (class components)
+- Create React App
+
+## Getting Started
+
+```bash
+npm install
+npm start
 ```
-npm install -g create-react-app
-```
-- Create a new React App:
-```
 
-
+Runs on http://localhost:3000.
